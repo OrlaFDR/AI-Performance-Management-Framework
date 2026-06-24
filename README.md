@@ -1,8 +1,14 @@
 # AI-Performance-Management-Framework
-I believe AI is most valuable when it helps professionals externalize experience into repeatable systems.
+Overview
 
-This project documents how I used ChatGPT as a thinking partner to transform years of operational leadership into a structured Performance Management Framework focused on coaching, accountability, KPI optimization, and sustainable operational excellence.
+This repository documents my journey of transforming five years of operational leadership experience into a structured Performance Management Framework using AI as a thought partner.
 
-Rather than asking AI to generate answers, I used it to challenge assumptions, organize ideas, identify gaps, and improve clarity through iterative conversations.
+Instead of asking AI to replace my thinking, I used it to:
 
-This framework continues to evolve as I learn more about leadership, customer success, workflow design, and AI-assisted knowledge management.
+Organize operational knowledge
+Challenge assumptions
+Structure leadership principles
+Identify knowledge gaps
+Transform experience into repeatable systems
+
+The result is a living framework focused on leadership, coaching, accountability, operational excellence, and continuous improvement.
