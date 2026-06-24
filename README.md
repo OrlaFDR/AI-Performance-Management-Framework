@@ -1,6 +1,8 @@
 # AI-Performance-Management-Framework
+# AI-Performance-Management-Framework
 
 ![AI Performance Management Framework](assets/ai-performance-management-framework-cover.png)
+
 Overview
 
 This repository documents my journey of transforming five years of operational leadership experience into a structured Performance Management Framework using AI as a thought partner.
