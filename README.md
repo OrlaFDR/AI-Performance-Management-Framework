@@ -1,5 +1,4 @@
 # AI-Performance-Management-Framework
-# AI-Performance-Management-Framework
 
 ![AI Performance Management Framework](assets/ai-performance-management-framework-cover.png)
 
